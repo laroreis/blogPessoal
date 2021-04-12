@@ -26,7 +26,7 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
+ <a href="#-autora">Autora</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
 
@@ -95,3 +95,30 @@ $ pelo Postman
 # O status 201 indica que deu Bom!
 
 ```
+
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+5. Sempre podemos melhorar o programa!
+
+---
+
+## 👩 Autora
+
+<a href="https://larissamreis3.myportfolio.com/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79121527?s=400&u=0489c8337514ef5aecb1307f8cf402def7063810&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Larissa(Laro) Reis</b></sub></a> <a href="https://larissamreis3.myportfolio.com/" title="LarissaReis">🚀</a>
+ <br />
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Larissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissamreis/)](https://www.linkedin.com/in/larissamreis/) 
+[![Gmail Badge](https://img.shields.io/badge/-laroreis3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laroreis3@gmail.com)](mailto:laroreis3@gmail.com)
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com ❤️ por Larissa Reis👋🏽 [Entre em contato!](https://www.linkedin.com/in/larissamreis/)
