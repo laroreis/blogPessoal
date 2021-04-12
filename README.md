@@ -3,9 +3,7 @@
    
   <img al= "capa blog" src= "![capablog](https://user-images.githubusercontent.com/79121527/114434101-002a3600-9b99-11eb-96e1-f84671dd0e32.png)">
   
- <a href="https://www.linkedin.com/in/larissamreis/">
-    <img alt="Siga no LinkedIn" src="https://media-exp1.licdn.com/dms/image/C4D03AQEukbSmfWW0pA/profile-displayphoto-shrink_800_800/0/1615426141838?e=1623888000&v=beta&t=GcI9LgTr5Lce9OUy3o-H4kIcHecrf7zgyuqXi4ZFkOw">
-  </a>
+
 
    <a href="https://github.com/laroreis">
     <img alt="Feito pela Larissa Reis" src="https://img2.gratispng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg1">
