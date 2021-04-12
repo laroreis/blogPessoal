@@ -1,11 +1,5 @@
-<p align="center">
-   
+<p align="center">	
  ![capablog](https://user-images.githubusercontent.com/79121527/114434101-002a3600-9b99-11eb-96e1-f84671dd0e32.png)
-  
-  
-   <a href="https://github.com/laroreis">
-    <img alt="Feito pela Larissa Reis" src="https://img2.gratispng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg1">
-  </a>
   
   <h1 align="center"> 📱 Blog Pessoal - Generation Brasil </h1>
   
@@ -13,6 +7,7 @@
 	🚧  BlogPessoal 🖥️ Em andamento... 🚀 🚧
 </h4>
   
+  [![GitHub issues](https://img.shields.io/github/issues/laroreis/blogPessoal?logo=GitHub)](https://github.com/laroreis/blogPessoal/issues)
   
   <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
