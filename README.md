@@ -8,15 +8,23 @@
 	🚧  BlogPessoal 🖥️ Em andamento... 🚀 🚧
 </h4>
   
-  [![GitHub issues](https://img.shields.io/github/issues/laroreis/blogPessoal?logo=GitHub)](https://github.com/laroreis/blogPessoal/issues)
-  
+ [![GitHub issues](https://img.shields.io/github/issues/laroreis/blogPessoal?logo=GitHub)](https://github.com/laroreis/blogPessoal/issues)
+ [![GitHub license](https://img.shields.io/github/license/laroreis/blogPessoal?color=3&logo=Github)](https://github.com/laroreis/blogPessoal)
+ [![GitHub forks](https://img.shields.io/github/forks/laroreis/blogPessoal?logo=GitHub)](https://github.com/laroreis/blogPessoal/network)
+ [![GitHub stars](https://img.shields.io/github/stars/laroreis/blogPessoal?logo=github)](https://github.com/laroreis/blogPessoal/stargazers)
+![GitHub last commit](https://img.shields.io/github/last-commit/laroreis/blogPessoal)
+<a href="https://larissamreis3.myportfolio.com/">
+    <img alt="Feito pela Larissa Reis" src="https://img.shields.io/badge/feito%20por-LaroReis-%237519C1">
+  </a>
+ 
+ 
+ 
   <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
