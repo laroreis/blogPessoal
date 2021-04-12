@@ -7,7 +7,7 @@
     <img alt="Feito pela Larissa Reis" src="https://img2.gratispng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg1">
   </a>
   
-  <h1 align="center"> 📱 Blog Pessoal - generation</h1>
+  <h1 align="center"> 📱 Blog Pessoal - Generation</h1>
   
   <h4 align="center"> 
 	🚧  BlogPessoal 🖥️ Em andamento... 🚀 🚧
@@ -25,9 +25,11 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
-##  Sobre o Projeto
-<p align="center"> 👁️ Blog Pessoal desenvolvido para conectar as pessoas através de texto (diarios) e fotos,
-   Projeto desenvolvido no BootCamp da Generation Brasil </p>
+## 📄 Sobre o Projeto
+<p align="center"> 
+	👁️ Blog Pessoal desenvolvido para conectar as pessoas através de texto (diarios) e fotos,
+   Projeto desenvolvido no BootCamp da Generation Brasil.
+</p>
    
    
 ## ⚙️ Funcionalidades
