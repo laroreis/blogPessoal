@@ -40,9 +40,17 @@
 ## ⚙️ Funcionalidades
 
 - [x] Empresas ou usarios podem se cadastrar na plataforma web enviando:
-- [x] uma imagem para foto de perfil
-- [x] nome do usuario e email
-- [x] pode postar com categorias relacionadas.
+	- nome do usuario, email e senha.
+- [x] Efetuar Login com chave de Segurança.
+- [x] Publicar postagens.
+- [x] Atualizar e Deletar as postagens.
+- [x] Filtrar pesquisas pelo:
+	- titulo e ordem de postagem. 
+- [x] Pode postar com categorias relacionadas.
+	- Network
+	- Curiosidades
+	- Dicas
+	- Etc. 
 
 
 ## 🎨 Layout
@@ -56,7 +64,7 @@ Este projeto é divido em duas partes:
 1. Backend (pasta server) 
 2. Frontend (ainda em desenvolvimento)
 
-💡O Frontend precisa que o Backend esteja sendo executado para funcionar.
+💡 O Frontend precisa que o Backend esteja sendo executado para funcionar.
 
 ## ❗  Pré-requisitos
 
@@ -95,6 +103,20 @@ $ pelo Postman
 # O status 201 indica que deu Bom!
 
 ```
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Spring Boot](https://start.spring.io/)
+
+
+### Aplicações
+
+As seguintes aplicações e bibliotecas foram usadas no projeto:
+	- API Rest
+	- Spring Segurity 
+	- Swagger
+
 ## 👨‍💻 Contribuidores
 
 💛 Um super Obrigada 👏 para essa galera que me ensinou tudo o que está nesse código 💛 :)
