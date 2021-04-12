@@ -95,6 +95,18 @@ $ pelo Postman
 # O status 201 indica que deu Bom!
 
 ```
+## 👨‍💻 Contribuidores
+
+💛 Um super Obrigada 👏 para essa galera que me ensinou tudo o que está nesse código 💛 :)
+
+<table>
+  <tr>
+	<td align="center"><a href="https://www.linkedin.com/in/lucas-capelotto-da-silva-43b26216a/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57732522?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Capeloto (Lucão)</b></sub></a><br /><a href="https://github.com/LucasCapSilva" title="Instrutor Generation Brasil">👨‍🚀</a></td> 
+	  <td align="center"><a href="https://www.linkedin.com/in/camillacleane/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQHv9qtp6ZPjdA/profile-displayphoto-shrink_800_800/0/1604110535275?e=1623888000&v=beta&t=6r5faAFI5Cg-Csf3NpM9G8FzsfffpPb3d-kMEikhJs0" width="100px;" alt=""/><br /><sub><b>Camilla Cleane (Camis)</b></sub></a><br /><a href="https://www.linkedin.com/in/camillacleane/" title="Instrutora Generation Brasil">👨‍🚀</a></td> 
+	   <td align="center"><a href="https://www.linkedin.com/in/elizabeth-hastings/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGV_K5KF8CE7A/profile-displayphoto-shrink_800_800/0/1531913155612?e=1623888000&v=beta&t=VVaZvLFZCdzrxgC2QKwa9r3vAd7Ozjk2gU0llYRIzDM" width="100px;" alt=""/><br /><sub><b>Elizabeth Hastings (Liza)</b></sub></a><br /><a href="https://www.linkedin.com/in/elizabeth-hastings/" title="Instrutora Generation Brasil">👨‍🚀</a></td> 
+	  
+</tr>
+</table>
 
 ## 💪 Como contribuir para o projeto
 
