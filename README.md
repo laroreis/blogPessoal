@@ -113,9 +113,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Aplicações
 
 As seguintes aplicações e bibliotecas foram usadas no projeto:
-	- API Rest
-	- Spring Segurity 
-	- Swagger
+
+- API Rest
+- Spring Segurity 
+- Swagger
 
 ## 👨‍💻 Contribuidores
 
