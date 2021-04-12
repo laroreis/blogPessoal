@@ -1,10 +1,8 @@
 <p align="center">
    
-   
-  <img al= "capa blog" src= "![capablog](https://user-images.githubusercontent.com/79121527/114434101-002a3600-9b99-11eb-96e1-f84671dd0e32.png)">
+  <img alt= "capa blog" src= "![capablog](https://user-images.githubusercontent.com/79121527/114434101-002a3600-9b99-11eb-96e1-f84671dd0e32.png)">
   
-
-
+  
    <a href="https://github.com/laroreis">
     <img alt="Feito pela Larissa Reis" src="https://img2.gratispng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg1">
   </a>
