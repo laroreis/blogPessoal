@@ -1,6 +1,6 @@
 <p align="center">
    
-  <img alt= "capa blog" src= "![capablog](https://user-images.githubusercontent.com/79121527/114434101-002a3600-9b99-11eb-96e1-f84671dd0e32.png)">
+ ![capablog](https://user-images.githubusercontent.com/79121527/114434101-002a3600-9b99-11eb-96e1-f84671dd0e32.png)
   
   
    <a href="https://github.com/laroreis">
