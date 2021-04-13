@@ -57,6 +57,11 @@
 
 O layout da aplicação está disponível no Figma:
 
+veja o pdf: 
+
+[BLOGPESSOAL.pdf](https://github.com/laroreis/blogPessoal/files/6305547/BLOGPESSOAL.pdf)
+
+
 
 ## 🚀 Como executar o projeto
 
@@ -124,9 +129,9 @@ As seguintes aplicações e bibliotecas foram usadas no projeto:
 
 <table>
   <tr>
-	<td align="center"><a href="https://www.linkedin.com/in/lucas-capelotto-da-silva-43b26216a/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57732522?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Capeloto (Lucão)</b></sub></a><br /><a href="https://github.com/LucasCapSilva" title="Instrutor Generation Brasil">👨‍🚀</a></td> 
-	  <td align="center"><a href="https://www.linkedin.com/in/camillacleane/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQHv9qtp6ZPjdA/profile-displayphoto-shrink_800_800/0/1604110535275?e=1623888000&v=beta&t=6r5faAFI5Cg-Csf3NpM9G8FzsfffpPb3d-kMEikhJs0" width="100px;" alt=""/><br /><sub><b>Camilla Cleane (Camis)</b></sub></a><br /><a href="https://www.linkedin.com/in/camillacleane/" title="Instrutora Generation Brasil">👨‍🚀</a></td> 
-	   <td align="center"><a href="https://www.linkedin.com/in/elizabeth-hastings/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGV_K5KF8CE7A/profile-displayphoto-shrink_800_800/0/1531913155612?e=1623888000&v=beta&t=VVaZvLFZCdzrxgC2QKwa9r3vAd7Ozjk2gU0llYRIzDM" width="100px;" alt=""/><br /><sub><b>Elizabeth Hastings (Liza)</b></sub></a><br /><a href="https://www.linkedin.com/in/elizabeth-hastings/" title="Instrutora Generation Brasil">👨‍🚀</a></td> 
+	<td align="center"><a href="https://www.linkedin.com/in/lucas-capelotto-da-silva-43b26216a/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57732522?v=4" width="100px;" alt="Lucao"/><br /><sub><b>Lucas Capeloto (Lucão)</b></sub></a><br /><a href="https://github.com/LucasCapSilva" title="Instrutor Generation Brasil">👨‍🚀</a></td> 
+	  <td align="center"><a href="https://www.linkedin.com/in/camillacleane/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQHv9qtp6ZPjdA/profile-displayphoto-shrink_800_800/0/1604110535275?e=1623888000&v=beta&t=6r5faAFI5Cg-Csf3NpM9G8FzsfffpPb3d-kMEikhJs0" width="100px;" alt="Camila"/><br /><sub><b>Camilla Cleane (Camis)</b></sub></a><br /><a href="https://github.com/camillacleanne" title="Instrutora Generation Brasil">👨‍🚀</a></td> 
+	   <td align="center"><a href="https://www.linkedin.com/in/elizabeth-hastings/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGV_K5KF8CE7A/profile-displayphoto-shrink_800_800/0/1531913155612?e=1623888000&v=beta&t=VVaZvLFZCdzrxgC2QKwa9r3vAd7Ozjk2gU0llYRIzDM" width="100px;" alt="Liza"/><br /><sub><b>Elizabeth Hastings (Liza)</b></sub></a><br /><a href="https://www.linkedin.com/in/elizabeth-hastings/" title="Instrutora Generation Brasil">👨‍🚀</a></td> 
 	  
 </tr>
 </table>
